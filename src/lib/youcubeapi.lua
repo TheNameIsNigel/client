@@ -32,7 +32,9 @@ end
 -- Look at the [Documentation](https://commandcracker.github.io/YouCube/) for moor information
 -- Contact the server owner on Discord, when the server is down
 local servers = {
-    "wss://mc.projectopencannibal.org:5000"
+    "wss://mc.projectopencannibal.org", -- Your server!
+    "wss://youcube.knijn.one", -- By EmmaKnijn#0043
+    "wss://youcube.onrender.com", -- By Commandcracker#8528
 }
 
 if settings then
